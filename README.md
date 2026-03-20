@@ -1,2 +1,3 @@
-# modern-data-pipeline-w0ue
-A data processing pipeline for modern development workflows
+# Modern Data Pipeline W0Ue
+
+A data processing pipeline for modern development workflows.
